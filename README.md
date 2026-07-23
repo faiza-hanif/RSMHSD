@@ -26,7 +26,7 @@ Dataset Plan
 - Inter-annotator agreement measured via Fleiss' Kappa; disagreements resolved by majority vote
  Models
 | Model | Type |
-
+|---|---|
 | mBERT | Text baseline |
 | XLM-RoBERTa | Text baseline |
 | ResNet-50 | Image baseline |
