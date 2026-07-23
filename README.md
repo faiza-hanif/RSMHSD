@@ -43,14 +43,15 @@ Korean Connection
 
 South Korean NLP research has established robust text-based hate speech benchmarks — BEEP!, K-MHaS, and KcHateSpeech — but these were designed primarily for textual input, with limited support for multimodal image-text analysis. This research uses these existing Korean benchmarks as a comparative control framework, allowing isolation of which harm patterns are language/culture-specific versus which appear across both South Asian and Korean contexts. The proposed methodology extends this foundation into the multimodal domain, producing a transferable framework that may support future research on multimodal hate speech in Korean online environments.
 
-Timeline (24 Months)
+Timeline
 
-| Semester | Months | Focus |
-| Year 1 | 1–6 | Language immersion, lab integration, literature review |
-| Semester 1 | 1–6 | Literature review, annotation design, dataset construction (RSMHSD) |
-| Semester 2 | 7–12 | Pipeline development, training all 8 models |
-| Semester 3 | 13–18 | Evaluation, cross-cultural analysis, conference paper draft |
-| Semester 4 | 19–24 | Thesis writing, paper submission, public dataset/model release |
+| Year | Months | Focus |
+|---|---|---|
+| Year 1 | 1–12 | Language development (TOPIK Level 3 target) and academic integration |
+| Year 2, Sem 1 | 1–6 | Literature review, annotation design, dataset construction (RSMHSD) |
+| Year 2, Sem 2 | 7–12 | Pipeline development, training all 8 models |
+| Year 3, Sem 3 | 13–18 | Evaluation, cross-cultural analysis, conference paper draft |
+| Year 3, Sem 4 | 19–24 | Thesis writing, paper submission, public dataset/model release |
 
  Long-Term Goals
 
