@@ -58,6 +58,7 @@ Timeline
 | Year 3, Sem 4 | 19–24 | Thesis writing, paper submission, public dataset/model release |
 
  Long-Term Goals
+ 
 The long-term goal is to return to Pakistan as an active NLP researcher publishing, teaching, and building annotated datasets for low-resource South Asian languages,while maintaining active research collaborations with Korean institutions. This research also lays groundwork for a planned PhD extension applying the same framework to hate speech targeting migrant communities on Korean platforms.
 
 References
