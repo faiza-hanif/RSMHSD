@@ -46,6 +46,7 @@ Models
 - **Evaluation:** performance reported separately for Pakistani and Indian content subsets to enable direct cross-cultural comparison
 
 Korean Connection
+
 South Korean NLP research has established robust text-based hate speech benchmarks — BEEP! (Moon et al., 2020) and K-MHaS (Lee et al., 2022) — but these were designed primarily for textual input, with limited support for multimodal image-text analysis. This research uses these existing Korean benchmarks as a comparative control framework, allowing isolation of which harm patterns are language/culture-specific versus which appear across both South Asian and Korean contexts. The proposed methodology extends this foundation into the multimodal domain, producing a transferable framework that may support future research on multimodal hate speech in Korean online environments.
 
 Timeline
