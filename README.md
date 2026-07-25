@@ -46,11 +46,9 @@ Models
 - **Evaluation:** performance reported separately for Pakistani and Indian content subsets to enable direct cross-cultural comparison
 
 Korean Connection
-
 South Korean NLP research has established robust text-based hate speech benchmarks — BEEP! (Moon et al., 2020) and K-MHaS (Lee et al., 2022) — but these were designed primarily for textual input, with limited support for multimodal image-text analysis. This research uses these existing Korean benchmarks as a comparative control framework, allowing isolation of which harm patterns are language/culture-specific versus which appear across both South Asian and Korean contexts. The proposed methodology extends this foundation into the multimodal domain, producing a transferable framework that may support future research on multimodal hate speech in Korean online environments.
 
 Timeline
-
 | Year | Months | Focus |
 |---|---|---|
 | Year 1 | 1–12 | Language development (TOPIK Level 3 target) and academic integration |
@@ -60,7 +58,6 @@ Timeline
 | Year 3, Sem 4 | 19–24 | Thesis writing, paper submission, public dataset/model release |
 
  Long-Term Goals
-
 The long-term goal is to return to Pakistan as an active NLP researcher publishing, teaching, and building annotated datasets for low-resource South Asian languages,while maintaining active research collaborations with Korean institutions. This research also lays groundwork for a planned PhD extension applying the same framework to hate speech targeting migrant communities on Korean platforms.
 
 References
@@ -70,6 +67,7 @@ Ashiq, W., Kanwal, S., Rafique, A., & Waqas, M. (2024). Roman Urdu hate speech d
 Bui, M. D., von der Wense, K., & Lauscher, A. (2025). Multi³Hate: Multimodal, multilingual, and multicultural hate speech detection with vision–language models. Proceedings of NAACL 2025.
 
 Rizwan, H., Shakeel, M. H., & Karim, A. (2020). Hate-speech and offensive language detection in Roman Urdu. *Proceedings of EMNLP 2020*, 2512–2522. https://doi.org/10.18653/v1/2020.emnlp-main.197
+
 Moon, J., Cho, W. I., & Lee, J. (2020). BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media, pages 25–31.
 
 Lee, J., Lim, T., Lee, H., Jo, B., Kim, Y., Yoon, H., & Han, S. C. (2022). K-MHaS: A Multi-label Hate Speech Detection Dataset in Korean Online News Comment. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022), pages 3530–3538.
