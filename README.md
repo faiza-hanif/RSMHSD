@@ -39,6 +39,12 @@ Models
 | BLIP-2 | Vision-language model (LoRA fine-tuned) |
 | LLaVA | Vision-language model (LoRA fine-tuned) |
 
+## Methodology Summary
+- **Input processing:** memes (text embedded in image) require OCR extraction before modeling; image-caption posts feed image and text separately
+- **Fine-tuning approach:** CLIP, BLIP-2, and LLaVA adapted using LoRA, a memory-efficient technique that makes fine-tuning large vision-language models feasible without full retraining
+- **Annotation quality control:** three-annotator panel, agreement measured via Fleiss' Kappa, disagreements resolved by majority vote
+- **Evaluation:** performance reported separately for Pakistani and Indian content subsets to enable direct cross-cultural comparison
+
 Korean Connection
 
 South Korean NLP research has established robust text-based hate speech benchmarks — BEEP!, K-MHaS, and KcHateSpeech — but these were designed primarily for textual input, with limited support for multimodal image-text analysis. This research uses these existing Korean benchmarks as a comparative control framework, allowing isolation of which harm patterns are language/culture-specific versus which appear across both South Asian and Korean contexts. The proposed methodology extends this foundation into the multimodal domain, producing a transferable framework that may support future research on multimodal hate speech in Korean online environments.
