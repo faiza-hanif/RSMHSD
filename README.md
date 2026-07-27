@@ -22,7 +22,7 @@ This project addresses that gap by:
 Dataset Plan
 - 12,000 memes and image-caption posts (6,000 hateful / 6,000 not hateful)
 - Sourced from Pakistani and Indian public social media pages
-- Three-annotator panel: Pakistani bilingual, Indian bilingual, neutral Bangladeshi annotator
+- Three-annotator panel: Pakistani bilingual, Indian bilingual, neutral annotator
 - Inter-annotator agreement measured via Fleiss' Kappa; disagreements resolved by majority vote
 
 Models
