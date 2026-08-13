@@ -77,4 +77,3 @@ The plan is to return to Pakistan as an active NLP researcher: publishing, teach
 - Moon, J., Cho, W. I., & Lee, J. (2020). BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In *Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media*, pages 25 to 31.
 - Lee, J., Lim, T., Lee, H., Jo, B., Kim, Y., Yoon, H., & Han, S. C. (2022). K-MHaS: A Multi-label Hate Speech Detection Dataset in Korean Online News Comment. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*, pages 3530 to 3538.
 
-## License
